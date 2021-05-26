@@ -313,7 +313,7 @@
       },
       "name": "SMA10 : {period\u003d10}",
       "value": 0,
-      "selected": true
+      "selected": false
     },
     {
       "type": "IND_EMA",
@@ -663,7 +663,7 @@
     },
     "ST_PRACTISEDATE": {
       "name": "PraticeDate",
-      "value": 20200526,
+      "value": 20200527,
       "selected": false
     },
     "ST_USERID": {

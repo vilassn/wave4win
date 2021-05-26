@@ -6,10 +6,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1621591200,
-    "exitDate": 1621931799,
-    "profit": -0.3,
+    "exitDate": 1622006285,
+    "profit": 0.49,
     "entryPrice": 34606.9,
-    "exitPrice": 34501.75
+    "exitPrice": 34776.15
   },
   {
     "symbol": "BHARTIARTL",
@@ -18,9 +18,9 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1621591200,
-    "exitDate": 1621931700,
-    "profit": -0.7,
+    "exitDate": 1622006220,
+    "profit": -0.14,
     "entryPrice": 530.95,
-    "exitPrice": 527.25
+    "exitPrice": 530.2
   }
 ]
